@@ -1,0 +1,2 @@
+hi, this is a text file to test file reading capabilities
+second line yeet
